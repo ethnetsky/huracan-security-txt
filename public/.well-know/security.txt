@@ -1,0 +1,7 @@
+# RFC 9116 - https://securitytxt.org/
+Contact: mailto:seguridad@huracanescomodoro.com.ar
+Encryption: https://huracanescomodoro.com.ar/.well-known/pgp-key.txt
+Policy: https://huracanescomodoro.com.ar/seguridad/politica
+Acknowledgments: https://huracanescomodoro.com.ar/seguridad/reconocimientos
+Expires: 2027-06-30T18:00:00.000Z
+Preferred-Languages: es
